@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/astrobyte.com/static/css/main.6959c903.css",
+    "main.js": "/astrobyte.com/static/js/main.9238e5af.js",
+    "static/js/488.c85f720e.chunk.js": "/astrobyte.com/static/js/488.c85f720e.chunk.js",
+    "static/media/hero-bg.jpg": "/astrobyte.com/static/media/hero-bg.f203d8c70497a5b01a9a.jpg",
+    "static/media/hero-bg.webp": "/astrobyte.com/static/media/hero-bg.37d539d479385cc3d240.webp",
+    "static/media/logo.png": "/astrobyte.com/static/media/logo.ee3ff05b63fe0f74137f.png",
+    "static/media/logo.webp": "/astrobyte.com/static/media/logo.97aec50cc3877de440d1.webp",
+    "index.html": "/astrobyte.com/index.html",
+    "main.6959c903.css.map": "/astrobyte.com/static/css/main.6959c903.css.map",
+    "main.9238e5af.js.map": "/astrobyte.com/static/js/main.9238e5af.js.map",
+    "488.c85f720e.chunk.js.map": "/astrobyte.com/static/js/488.c85f720e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6959c903.css",
+    "static/js/main.9238e5af.js"
+  ]
+}
